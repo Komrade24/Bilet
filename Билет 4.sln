@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Билет 6", "Билет 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Билет 7", "Билет 7\Билет 7.csproj", "{497E31DE-691E-402F-82A4-90E08560D1F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Билет 8", "Билет 8\Билет 8.csproj", "{4AF092B1-74C4-4D3C-9217-F91999AF6AC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{497E31DE-691E-402F-82A4-90E08560D1F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{497E31DE-691E-402F-82A4-90E08560D1F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{497E31DE-691E-402F-82A4-90E08560D1F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AF092B1-74C4-4D3C-9217-F91999AF6AC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AF092B1-74C4-4D3C-9217-F91999AF6AC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AF092B1-74C4-4D3C-9217-F91999AF6AC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AF092B1-74C4-4D3C-9217-F91999AF6AC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
